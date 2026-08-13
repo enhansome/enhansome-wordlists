@@ -1,0 +1,580 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLists",
+          "description": "Collection of useful wordlists grouped by context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:23:06Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 72813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneListForAll",
+          "description": "Massive consolidated wordlist for multiple offensive security use cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-11T21:38:54Z",
+            "owner": "six2dez",
+            "repo": "OneListForAll",
+            "stars": 3224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bug-Bounty-Wordlists",
+          "description": "A repository that includes all the important wordlists used while bug hunting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-11T12:49:01Z",
+            "owner": "Karanxa",
+            "repo": "Bug-Bounty-Wordlists",
+            "stars": 1429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xajkep's Wordlists",
+          "description": "Wordlists curated by Xajkep grouped by context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:43:07Z",
+            "owner": "xajkep",
+            "repo": "wordlists",
+            "stars": 946
+          }
+        }
+      ],
+      "title": "Lists of Lists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Directories",
+          "description": "Xajkep's directories wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:43:07Z",
+            "owner": "xajkep",
+            "repo": "wordlists",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backup files",
+          "description": "Xajkep's backup files wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:43:07Z",
+            "owner": "xajkep",
+            "repo": "wordlists",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Backup files with path",
+          "description": "Xajkep's backup files with paths.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T09:43:07Z",
+            "owner": "xajkep",
+            "repo": "wordlists",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api_wordlist",
+          "description": "API endpoints and routes wordlist for API discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-17T01:19:47Z",
+            "owner": "chrislockard",
+            "repo": "api_wordlist",
+            "stars": 925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n0kovo_subdomains",
+          "description": "An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-04T17:54:00Z",
+            "owner": "n0kovo",
+            "repo": "n0kovo_subdomains",
+            "stars": 829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dirbuster Wordlists",
+          "description": "Dirbuster's default directories wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-29T14:47:57Z",
+            "owner": "3ndG4me",
+            "repo": "KaliLists",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dirb Wordlists",
+          "description": "Dirb's default wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-29T14:47:57Z",
+            "owner": "3ndG4me",
+            "repo": "KaliLists",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ws-dirs",
+          "description": "Wfuzz webservices directories wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-29T14:47:57Z",
+            "owner": "3ndG4me",
+            "repo": "KaliLists",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ws-files",
+          "description": "Wfuzz webservices files wordlist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-29T14:47:57Z",
+            "owner": "3ndG4me",
+            "repo": "KaliLists",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS S3 Bucket Wordlist",
+          "description": "Wordlist for discovering AWS S3 bucket names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-02T08:09:16Z",
+            "owner": "koaj",
+            "repo": "aws-s3-bucket-wordlist",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Enumeration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLists' Passwords",
+          "description": "Password wordlists from SecLists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:23:06Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 72813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPA-Length Passwords",
+          "description": "Passwords with WPA length.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-04T20:22:09Z",
+            "owner": "berzerk0",
+            "repo": "Probable-Wordlists",
+            "stars": 9321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RockYou",
+          "description": "The go-to wordlist for passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-10T00:05:56Z",
+            "owner": "brannondorsey",
+            "repo": "naive-hashcat",
+            "stars": 1414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active-Directory-Wordlists' Passwords",
+          "description": "Most common Active Directory passwords.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-28T15:16:13Z",
+            "owner": "Cryilllic",
+            "repo": "Active-Directory-Wordlists",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vie_wpa2_pw",
+          "description": "Regional (Vietnam) WPA2 wordlists and hashcat rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-18T03:55:51Z",
+            "owner": "sakkarose",
+            "repo": "vie_wpa2_pw",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Passwords"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SecLists' Usernames",
+          "description": "Username wordlists from SecLists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T12:23:06Z",
+            "owner": "danielmiessler",
+            "repo": "SecLists",
+            "stars": 72813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active-Directory-Wordlists' Users",
+          "description": "Most common Active Directory usernames.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-28T15:16:13Z",
+            "owner": "Cryilllic",
+            "repo": "Active-Directory-Wordlists",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Usernames"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PayloadsAllTheThings",
+          "description": "Extensive payload collection for testing many vulnerability classes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:38:47Z",
+            "owner": "swisskyrepo",
+            "repo": "PayloadsAllTheThings",
+            "stars": 79993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuzzDB",
+          "description": "Large collection of attack patterns, predictable resources, and fuzzing payloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-11-10T16:15:18Z",
+            "owner": "fuzzdb-project",
+            "repo": "fuzzdb",
+            "stars": 8973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoSQL-Injection Wordlist",
+          "description": "List of payloads to test NoSQL injections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-05T08:26:14Z",
+            "owner": "cr0hn",
+            "repo": "nosqlinjection_wordlists",
+            "stars": 384
+          }
+        }
+      ],
+      "title": "Vulnerabilities"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Non-English Wordlists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dadoware",
+          "description": "Diceware-style passphrase wordlist in Portuguese.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-26T19:37:38Z",
+            "owner": "thoughtworks",
+            "repo": "dadoware",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BRDumps Wordlists",
+          "description": "Wordlists based on Brazilian passwords and dictionaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-05-30T02:34:48Z",
+            "owner": "BRDumps",
+            "repo": "wordlists",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "words-pt",
+          "description": "Dictionary of common European Portuguese words.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-21T21:17:06Z",
+            "owner": "jfoclpf",
+            "repo": "words-pt",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Portuguese"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "French wordlists",
+          "description": "Collection of French wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T15:17:39Z",
+            "owner": "clem9669",
+            "repo": "wordlists",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indonesian-wordlist",
+          "description": "Collection of Indonesian wordlists for password cracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-02-19T04:14:06Z",
+            "owner": "geovedi",
+            "repo": "indonesian-wordlist",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danish-wordlists",
+          "description": "Collection of Danish base wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-11T06:05:22Z",
+            "owner": "n0kovo",
+            "repo": "danish-wordlists",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "albanian-wordlist",
+          "description": "Albanian wordlist with a mix of names, last names, and Albanian literature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-05T16:47:55Z",
+            "owner": "its0x08",
+            "repo": "albanian-wordlist",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medical-wordlist",
+          "description": "Medical wordlists in English, French, and Ukrainian languages for spell checking.",
+          "children": []
+        }
+      ],
+      "title": "Other Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Probable-Wordlists",
+          "description": "Research on several types of wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-04T20:22:09Z",
+            "owner": "berzerk0",
+            "repo": "Probable-Wordlists",
+            "stars": 9321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trickest Wordlists",
+          "description": "Real-world infosec wordlists, updated regularly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T13:14:54Z",
+            "owner": "trickest",
+            "repo": "wordlists",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Assetnote Wordlists",
+          "description": "Automated and manual wordlists provided by Assetnote.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-27T13:43:15Z",
+            "owner": "assetnote",
+            "repo": "wordlists",
+            "stars": 1717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kali Wordlists",
+          "description": "Kali Linux's default wordlists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-29T14:47:57Z",
+            "owner": "3ndG4me",
+            "repo": "KaliLists",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honey",
+          "description": "Honeypot for automated wordlist generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T18:51:27Z",
+            "owner": "gmelodie",
+            "repo": "honey",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "See CONTRIBUTING.md for guidelines on how to contribute.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:39:46.791Z",
+    "original_repository": "gmelodie/awesome-wordlists",
+    "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
+    "enhanced_repository": "enhansome/enhansome-wordlists",
+    "enhanced_repository_description": null,
+    "title": "Awesome Wordlists with stars"
+  }
+}
