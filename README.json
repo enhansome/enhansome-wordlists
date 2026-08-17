@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T13:15:01Z",
+            "last_commit": "2026-08-16T11:07:22Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72867
+            "stars": 72886
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-04-04T17:54:00Z",
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T13:15:01Z",
+            "last_commit": "2026-08-16T11:07:22Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72867
+            "stars": 72886
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9326
+            "stars": 9327
           }
         },
         {
@@ -295,10 +295,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T13:15:01Z",
+            "last_commit": "2026-08-16T11:07:22Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72867
+            "stars": 72886
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80077
+            "stars": 80108
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2023-11-10T16:15:18Z",
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8974
+            "stars": 8975
           }
         },
         {
@@ -430,7 +430,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T04:05:30Z",
+            "last_commit": "2026-08-17T04:56:23Z",
             "owner": "clem9669",
             "repo": "wordlists",
             "stars": 327
@@ -447,7 +447,7 @@
             "last_commit": "2016-02-19T04:14:06Z",
             "owner": "geovedi",
             "repo": "indonesian-wordlist",
-            "stars": 252
+            "stars": 253
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9326
+            "stars": 9327
           }
         },
         {
@@ -512,10 +512,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T13:13:01Z",
+            "last_commit": "2026-08-16T13:12:17Z",
             "owner": "trickest",
             "repo": "wordlists",
-            "stars": 1789
+            "stars": 1790
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-02-27T13:43:15Z",
             "owner": "assetnote",
             "repo": "wordlists",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -570,7 +570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:00:17.709Z",
+    "last_updated": "2026-08-17T05:08:12.398Z",
     "original_repository": "gmelodie/awesome-wordlists",
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
     "enhanced_repository": "enhansome/enhansome-wordlists",
