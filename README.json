@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
+            "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72921
+            "stars": 72930
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 312563287,
             "language": "Go",
             "last_commit": "2026-03-11T21:38:54Z",
             "owner": "six2dez",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376929513,
             "language": null,
             "last_commit": "2023-03-11T12:49:01Z",
             "owner": "Karanxa",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104459373,
             "language": "Python",
             "last_commit": "2026-02-10T09:43:07Z",
             "owner": "xajkep",
@@ -63,7 +67,7 @@
       "title": "Lists of Lists"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104459373,
             "language": "Python",
             "last_commit": "2026-02-10T09:43:07Z",
             "owner": "xajkep",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104459373,
             "language": "Python",
             "last_commit": "2026-02-10T09:43:07Z",
             "owner": "xajkep",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104459373,
             "language": "Python",
             "last_commit": "2026-02-10T09:43:07Z",
             "owner": "xajkep",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41097819,
             "language": null,
             "last_commit": "2025-06-17T01:19:47Z",
             "owner": "chrislockard",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591858240,
             "language": null,
             "last_commit": "2023-04-04T17:54:00Z",
             "owner": "n0kovo",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137802694,
             "language": "HTML",
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137802694,
             "language": "HTML",
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137802694,
             "language": "HTML",
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137802694,
             "language": "HTML",
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268737323,
             "language": null,
             "last_commit": "2020-06-02T08:09:16Z",
             "owner": "koaj",
@@ -209,7 +223,7 @@
       "title": "Enumeration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -218,11 +232,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
+            "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72921
+            "stars": 72930
           }
         },
         {
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88430053,
             "language": null,
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97553311,
             "language": "C",
             "last_commit": "2022-01-10T00:05:56Z",
             "owner": "brannondorsey",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265135362,
             "language": null,
             "last_commit": "2020-05-28T15:16:13Z",
             "owner": "Cryilllic",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435121833,
             "language": "Python",
             "last_commit": "2025-12-18T03:55:51Z",
             "owner": "sakkarose",
@@ -285,7 +304,7 @@
       "title": "Passwords"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-18T13:47:29Z",
+            "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72921
+            "stars": 72930
           }
         },
         {
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265135362,
             "language": null,
             "last_commit": "2020-05-28T15:16:13Z",
             "owner": "Cryilllic",
@@ -319,7 +340,7 @@
       "title": "Usernames"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -328,11 +349,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71220757,
             "language": "Python",
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80154
+            "stars": 80171
           }
         },
         {
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42261096,
             "language": "PHP",
             "last_commit": "2023-11-10T16:15:18Z",
             "owner": "fuzzdb-project",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68700963,
             "language": null,
             "last_commit": "2021-05-05T08:26:14Z",
             "owner": "cr0hn",
@@ -367,128 +391,132 @@
       "title": "Vulnerabilities"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dadoware",
+              "description": "Diceware-style passphrase wordlist in Portuguese.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 58393832,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-07-26T19:37:38Z",
+                "owner": "thoughtworks",
+                "repo": "dadoware",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BRDumps Wordlists",
+              "description": "Wordlists based on Brazilian passwords and dictionaries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27289260,
+                "language": null,
+                "last_commit": "2016-05-30T02:34:48Z",
+                "owner": "BRDumps",
+                "repo": "wordlists",
+                "stars": 182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "words-pt",
+              "description": "Dictionary of common European Portuguese words.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244400879,
+                "language": "JavaScript",
+                "last_commit": "2024-07-21T21:17:06Z",
+                "owner": "jfoclpf",
+                "repo": "words-pt",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Portuguese"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "French wordlists",
+              "description": "Collection of French wordlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306054267,
+                "language": null,
+                "last_commit": "2026-08-19T04:05:18Z",
+                "owner": "clem9669",
+                "repo": "wordlists",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "indonesian-wordlist",
+              "description": "Collection of Indonesian wordlists for password cracking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6977149,
+                "language": null,
+                "last_commit": "2016-02-19T04:14:06Z",
+                "owner": "geovedi",
+                "repo": "indonesian-wordlist",
+                "stars": 253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "danish-wordlists",
+              "description": "Collection of Danish base wordlists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432145602,
+                "language": null,
+                "last_commit": "2023-01-11T06:05:22Z",
+                "owner": "n0kovo",
+                "repo": "danish-wordlists",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "albanian-wordlist",
+              "description": "Albanian wordlist with a mix of names, last names, and Albanian literature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 513826276,
+                "language": null,
+                "last_commit": "2023-01-05T16:47:55Z",
+                "owner": "its0x08",
+                "repo": "albanian-wordlist",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Languages"
+        }
+      ],
       "title": "Non-English Wordlists"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dadoware",
-          "description": "Diceware-style passphrase wordlist in Portuguese.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Jupyter Notebook",
-            "last_commit": "2021-07-26T19:37:38Z",
-            "owner": "thoughtworks",
-            "repo": "dadoware",
-            "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BRDumps Wordlists",
-          "description": "Wordlists based on Brazilian passwords and dictionaries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-05-30T02:34:48Z",
-            "owner": "BRDumps",
-            "repo": "wordlists",
-            "stars": 182
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "words-pt",
-          "description": "Dictionary of common European Portuguese words.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-21T21:17:06Z",
-            "owner": "jfoclpf",
-            "repo": "words-pt",
-            "stars": 42
-          }
-        }
-      ],
-      "title": "Portuguese"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "French wordlists",
-          "description": "Collection of French wordlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-19T04:05:18Z",
-            "owner": "clem9669",
-            "repo": "wordlists",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "indonesian-wordlist",
-          "description": "Collection of Indonesian wordlists for password cracking.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2016-02-19T04:14:06Z",
-            "owner": "geovedi",
-            "repo": "indonesian-wordlist",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "danish-wordlists",
-          "description": "Collection of Danish base wordlists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-11T06:05:22Z",
-            "owner": "n0kovo",
-            "repo": "danish-wordlists",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "albanian-wordlist",
-          "description": "Albanian wordlist with a mix of names, last names, and Albanian literature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-05T16:47:55Z",
-            "owner": "its0x08",
-            "repo": "albanian-wordlist",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "medical-wordlist",
-          "description": "Medical wordlists in English, French, and Ukrainian languages for spell checking.",
-          "children": []
-        }
-      ],
-      "title": "Other Languages"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -497,6 +525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88430053,
             "language": null,
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
@@ -511,8 +540,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523315728,
             "language": null,
-            "last_commit": "2026-08-18T15:12:21Z",
+            "last_commit": "2026-08-19T12:37:28Z",
             "owner": "trickest",
             "repo": "wordlists",
             "stars": 1791
@@ -525,6 +555,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313270723,
             "language": "CSS",
             "last_commit": "2026-02-27T13:43:15Z",
             "owner": "assetnote",
@@ -539,6 +570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137802694,
             "language": "HTML",
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
@@ -553,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1201548129,
             "language": "Python",
             "last_commit": "2026-05-25T18:51:27Z",
             "owner": "gmelodie",
@@ -562,16 +595,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "See CONTRIBUTING.md for guidelines on how to contribute.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:02:30.554Z",
+    "last_updated": "2026-08-19T12:58:54.790Z",
     "original_repository": "gmelodie/awesome-wordlists",
+    "original_repository_id": 212229356,
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
     "enhanced_repository": "enhansome/enhansome-wordlists",
     "enhanced_repository_description": null,
