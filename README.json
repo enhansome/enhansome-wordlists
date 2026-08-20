@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72930
+            "stars": 72944
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2023-03-11T12:49:01Z",
             "owner": "Karanxa",
             "repo": "Bug-Bounty-Wordlists",
-            "stars": 1430
+            "stars": 1429
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-06-17T01:19:47Z",
             "owner": "chrislockard",
             "repo": "api_wordlist",
-            "stars": 924
+            "stars": 925
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72930
+            "stars": 72944
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9329
+            "stars": 9330
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-19T10:33:47Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 72930
+            "stars": 72944
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80171
+            "stars": 80188
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2023-11-10T16:15:18Z",
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8976
+            "stars": 8975
           }
         },
         {
@@ -422,7 +422,7 @@
                 "last_commit": "2016-05-30T02:34:48Z",
                 "owner": "BRDumps",
                 "repo": "wordlists",
-                "stars": 182
+                "stars": 181
               }
             },
             {
@@ -456,7 +456,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-19T04:05:18Z",
+                "last_commit": "2026-08-20T04:04:55Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -474,7 +474,7 @@
                 "last_commit": "2016-02-19T04:14:06Z",
                 "owner": "geovedi",
                 "repo": "indonesian-wordlist",
-                "stars": 253
+                "stars": 254
               }
             },
             {
@@ -530,7 +530,7 @@
             "last_commit": "2023-10-04T20:22:09Z",
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9329
+            "stars": 9330
           }
         },
         {
@@ -542,7 +542,7 @@
             "archived": false,
             "id": 523315728,
             "language": null,
-            "last_commit": "2026-08-19T12:37:28Z",
+            "last_commit": "2026-08-19T15:02:36Z",
             "owner": "trickest",
             "repo": "wordlists",
             "stars": 1791
@@ -575,7 +575,7 @@
             "last_commit": "2022-03-29T14:47:57Z",
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:54.790Z",
+    "last_updated": "2026-08-20T05:04:06.905Z",
     "original_repository": "gmelodie/awesome-wordlists",
     "original_repository_id": 212229356,
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
