@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:12:01Z",
+            "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73037
+            "stars": 73049
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-11T21:38:54Z",
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3228
+            "stars": 3229
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2025-06-17T01:19:47Z",
             "owner": "chrislockard",
             "repo": "api_wordlist",
-            "stars": 928
+            "stars": 929
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:12:01Z",
+            "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73037
+            "stars": 73049
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-01-10T00:05:56Z",
             "owner": "brannondorsey",
             "repo": "naive-hashcat",
-            "stars": 1415
+            "stars": 1416
           }
         },
         {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-24T11:12:01Z",
+            "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73037
+            "stars": 73049
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80323
+            "stars": 80342
           }
         },
         {
@@ -456,7 +456,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-24T14:04:41Z",
+                "last_commit": "2026-08-25T04:05:57Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:30.304Z",
+    "last_updated": "2026-08-25T05:04:59.187Z",
     "original_repository": "gmelodie/awesome-wordlists",
     "original_repository_id": 212229356,
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
