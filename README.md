@@ -15,7 +15,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Lists of Lists
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,049 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Collection of useful wordlists grouped by context.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,050 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Collection of useful wordlists grouped by context.
 * [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,229 | 🐛 1 | 🌐 Go | 📅 2026-03-11 - Massive consolidated wordlist for multiple offensive security use cases.
 * [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,429 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
 * [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 947 | 🐛 0 | 🌐 Python | 📅 2026-02-10 - Wordlists curated by Xajkep grouped by context.
@@ -39,7 +39,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Passwords
 
-* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 73,049 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Password wordlists from SecLists.
+* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 73,050 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Password wordlists from SecLists.
 * [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,333 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
 * [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,416 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
 * [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) ⭐ 114 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory passwords.
@@ -49,13 +49,13 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Usernames
 
-* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 73,049 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Username wordlists from SecLists.
+* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 73,050 | 🐛 12 | 🌐 PHP | 📅 2026-08-24 - Username wordlists from SecLists.
 * [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) ⭐ 114 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory usernames.
 * [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010.
 
 ## Vulnerabilities
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,342 | 🐛 36 | 🌐 Python | 📅 2026-08-09 - Extensive payload collection for testing many vulnerability classes.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,343 | 🐛 36 | 🌐 Python | 📅 2026-08-09 - Extensive payload collection for testing many vulnerability classes.
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 8,976 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 * [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) ⭐ 385 | 🐛 0 | 📅 2021-05-05 - List of payloads to test NoSQL injections.
 

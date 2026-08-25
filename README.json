@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73049
+            "stars": 73050
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73049
+            "stars": 73050
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-24T14:19:12Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73049
+            "stars": 73050
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-09T13:38:47Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80342
+            "stars": 80343
           }
         },
         {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:04:59.187Z",
+    "last_updated": "2026-08-25T06:04:21.586Z",
     "original_repository": "gmelodie/awesome-wordlists",
     "original_repository_id": 212229356,
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
