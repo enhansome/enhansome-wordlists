@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T11:12:02Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
+            "stars": 73121
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-26T11:12:02Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
+            "stars": 73121
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-26T11:12:02Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73120
+            "stars": 73121
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80420
+            "stars": 80426
           }
         },
         {
@@ -456,7 +456,7 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-26T14:07:48Z",
+                "last_commit": "2026-08-27T14:22:43Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
@@ -542,7 +542,7 @@
             "archived": false,
             "id": 523315728,
             "language": null,
-            "last_commit": "2026-08-26T13:10:57Z",
+            "last_commit": "2026-08-27T13:15:30Z",
             "owner": "trickest",
             "repo": "wordlists",
             "stars": 1791
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:45.961Z",
+    "last_updated": "2026-08-27T15:23:41.268Z",
     "original_repository_info": {
       "archived": false,
       "id": 212229356,
