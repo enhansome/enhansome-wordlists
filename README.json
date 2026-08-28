@@ -12,11 +12,12 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73121
-          }
+            "stars": 73132
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-03-11T21:38:54Z",
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3231
-          }
+            "stars": 3232
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2023-03-11T12:49:01Z",
             "owner": "Karanxa",
             "repo": "Bug-Bounty-Wordlists",
-            "stars": 1429
-          }
+            "stars": 1430
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "xajkep",
             "repo": "wordlists",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Lists of Lists"
@@ -82,7 +86,8 @@
             "owner": "xajkep",
             "repo": "wordlists",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "xajkep",
             "repo": "wordlists",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "xajkep",
             "repo": "wordlists",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "chrislockard",
             "repo": "api_wordlist",
             "stars": 929
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
             "stars": 834
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "3ndG4me",
             "repo": "KaliLists",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "3ndG4me",
             "repo": "KaliLists",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "3ndG4me",
             "repo": "KaliLists",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "3ndG4me",
             "repo": "KaliLists",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "koaj",
             "repo": "aws-s3-bucket-wordlist",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Enumeration"
@@ -234,11 +248,12 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73121
-          }
+            "stars": 73132
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
             "stars": 9334
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "brannondorsey",
             "repo": "naive-hashcat",
             "stars": 1416
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "Cryilllic",
             "repo": "Active-Directory-Wordlists",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "sakkarose",
             "repo": "vie_wpa2_pw",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Passwords"
@@ -315,11 +334,12 @@
             "archived": false,
             "id": 3482588,
             "language": "PHP",
-            "last_commit": "2026-08-26T11:12:02Z",
+            "last_commit": "2026-08-27T15:51:06Z",
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73121
-          }
+            "stars": 73132
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "Cryilllic",
             "repo": "Active-Directory-Wordlists",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Usernames"
@@ -354,8 +375,9 @@
             "last_commit": "2026-08-27T07:52:21Z",
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80426
-          }
+            "stars": 80457
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
             "stars": 8980
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "cr0hn",
             "repo": "nosqlinjection_wordlists",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Vulnerabilities"
@@ -408,7 +432,8 @@
                 "owner": "thoughtworks",
                 "repo": "dadoware",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             },
             {
               "node_type": "item",
@@ -423,7 +448,8 @@
                 "owner": "BRDumps",
                 "repo": "wordlists",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             },
             {
               "node_type": "item",
@@ -438,7 +464,8 @@
                 "owner": "jfoclpf",
                 "repo": "words-pt",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             }
           ],
           "description": null,
@@ -456,11 +483,12 @@
                 "archived": false,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-27T14:22:43Z",
+                "last_commit": "2026-08-28T15:31:48Z",
                 "owner": "clem9669",
                 "repo": "wordlists",
                 "stars": 327
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             },
             {
               "node_type": "item",
@@ -475,7 +503,8 @@
                 "owner": "geovedi",
                 "repo": "indonesian-wordlist",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             },
             {
               "node_type": "item",
@@ -490,7 +519,8 @@
                 "owner": "n0kovo",
                 "repo": "danish-wordlists",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             },
             {
               "node_type": "item",
@@ -505,7 +535,8 @@
                 "owner": "its0x08",
                 "repo": "albanian-wordlist",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T16:49:12.295Z"
             }
           ],
           "description": null,
@@ -531,7 +562,8 @@
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
             "stars": 9334
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -542,11 +574,12 @@
             "archived": false,
             "id": 523315728,
             "language": null,
-            "last_commit": "2026-08-27T13:15:30Z",
+            "last_commit": "2026-08-28T13:14:42Z",
             "owner": "trickest",
             "repo": "wordlists",
             "stars": 1791
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -561,7 +594,8 @@
             "owner": "assetnote",
             "repo": "wordlists",
             "stars": 1722
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -576,7 +610,8 @@
             "owner": "3ndG4me",
             "repo": "KaliLists",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         },
         {
           "node_type": "item",
@@ -591,14 +626,15 @@
             "owner": "gmelodie",
             "repo": "honey",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:49:12.295Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:23:41.268Z",
+    "last_updated": "2026-08-28T16:49:12.295Z",
     "original_repository_info": {
       "archived": false,
       "id": 212229356,
