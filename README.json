@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
             "id": 3482588,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:51:06Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73132
+            "stars": 73142,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -26,12 +31,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rockyou for web fuzzing",
+            "homepage": null,
             "id": 312563287,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-03-11T21:38:54Z",
+            "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3232
+            "stars": 3232,
+            "topics": [
+              "bugbounty",
+              "fuzzing",
+              "hacking",
+              "pentesting",
+              "web-fuzzing",
+              "wordlist",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -42,12 +60,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository that includes all the important wordlists used while bug hunting.",
+            "homepage": "https://twitter.com/Itskaranxa",
             "id": 376929513,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-03-11T12:49:01Z",
+            "open_issues": 1,
             "owner": "Karanxa",
             "repo": "Bug-Bounty-Wordlists",
-            "stars": 1430
+            "stars": 1430,
+            "topics": [
+              "bugbounty",
+              "hacktoberfest",
+              "hacktoberfest2022"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -58,12 +85,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infosec Wordlists and more.",
+            "homepage": null,
             "id": 104459373,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-10T09:43:07Z",
+            "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "dictionary",
+              "discovery",
+              "fuzzing",
+              "infosec",
+              "payload",
+              "payloads",
+              "recon",
+              "regex-pattern",
+              "security",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -80,12 +123,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infosec Wordlists and more.",
+            "homepage": null,
             "id": 104459373,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-10T09:43:07Z",
+            "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "dictionary",
+              "discovery",
+              "fuzzing",
+              "infosec",
+              "payload",
+              "payloads",
+              "recon",
+              "regex-pattern",
+              "security",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -96,12 +155,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infosec Wordlists and more.",
+            "homepage": null,
             "id": 104459373,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-10T09:43:07Z",
+            "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "dictionary",
+              "discovery",
+              "fuzzing",
+              "infosec",
+              "payload",
+              "payloads",
+              "recon",
+              "regex-pattern",
+              "security",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -112,12 +187,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Infosec Wordlists and more.",
+            "homepage": null,
             "id": 104459373,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-10T09:43:07Z",
+            "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "dictionary",
+              "discovery",
+              "fuzzing",
+              "infosec",
+              "payload",
+              "payloads",
+              "recon",
+              "regex-pattern",
+              "security",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -128,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wordlist of API names for web application assessments",
+            "homepage": null,
             "id": 41097819,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-17T01:19:47Z",
+            "open_issues": 0,
             "owner": "chrislockard",
             "repo": "api_wordlist",
-            "stars": 929
+            "stars": 929,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -144,12 +240,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.",
+            "homepage": "https://n0kovo.github.io/posts/subdomain-enumeration-creating-a-highly-efficient-wordlist-by-scanning-the-entire-internet/",
             "id": 591858240,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-04-04T17:54:00Z",
+            "open_issues": 1,
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
-            "stars": 834
+            "stars": 834,
+            "topics": [
+              "bugbounty",
+              "enumeration",
+              "osint",
+              "pentesting",
+              "reconnaissance",
+              "redteam",
+              "subdomain-brute",
+              "subdomain-bruteforcing",
+              "subdomain-enumeration",
+              "subdomain-scanner",
+              "subdomain-wordlist",
+              "subdomains",
+              "wordlist",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -160,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.",
+            "homepage": null,
             "id": 137802694,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-29T14:47:57Z",
+            "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -176,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.",
+            "homepage": null,
             "id": 137802694,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-29T14:47:57Z",
+            "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -192,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.",
+            "homepage": null,
             "id": 137802694,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-29T14:47:57Z",
+            "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -208,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.",
+            "homepage": null,
             "id": 137802694,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-29T14:47:57Z",
+            "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -224,12 +360,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most common AWS S3 bucket names.",
+            "homepage": null,
             "id": 268737323,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-02T08:09:16Z",
+            "open_issues": 0,
             "owner": "koaj",
             "repo": "aws-s3-bucket-wordlist",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "aws-s3",
+              "bug-bounty",
+              "security",
+              "wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -246,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
             "id": 3482588,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:51:06Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73132
+            "stars": 73142,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -262,12 +413,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!",
+            "homepage": null,
             "id": 88430053,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-10-04T20:22:09Z",
+            "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9334
+            "stars": 9334,
+            "topics": [
+              "dictionary",
+              "dictionary-attack",
+              "password",
+              "password-safety",
+              "password-strength",
+              "wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -278,12 +441,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crack password hashes without the fuss :cat2:",
+            "homepage": null,
             "id": 97553311,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2022-01-10T00:05:56Z",
+            "open_issues": 12,
             "owner": "brannondorsey",
             "repo": "naive-hashcat",
-            "stars": 1416
+            "stars": 1416,
+            "topics": [
+              "hacking",
+              "hash-cracking",
+              "hashcat",
+              "password-cracking"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -294,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active Directory Wordlists",
+            "homepage": null,
             "id": 265135362,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-28T15:16:13Z",
+            "open_issues": 0,
             "owner": "Cryilllic",
             "repo": "Active-Directory-Wordlists",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -310,12 +488,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal custom wordlists & rule-based attacks because I was bored.",
+            "homepage": null,
             "id": 435121833,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-12-18T03:55:51Z",
+            "open_issues": 0,
             "owner": "sakkarose",
             "repo": "vie_wpa2_pw",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "common",
+              "date",
+              "dictionary",
+              "dictionary-attack",
+              "hashcat",
+              "hashcat-lists",
+              "hashcat-masks",
+              "hashcat-rules",
+              "phone-number",
+              "python",
+              "rockyou",
+              "rockyou2021",
+              "vietnam",
+              "vietnamese",
+              "wpa2",
+              "wpa2-handshake",
+              "wpa2-wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -332,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "homepage": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
             "id": 3482588,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:51:06Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73132
+            "stars": 73142,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -348,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active Directory Wordlists",
+            "homepage": null,
             "id": 265135362,
             "language": null,
+            "license": null,
             "last_commit": "2020-05-28T15:16:13Z",
+            "open_issues": 0,
             "owner": "Cryilllic",
             "repo": "Active-Directory-Wordlists",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -370,12 +581,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "homepage": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
             "id": 71220757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:52:21Z",
+            "open_issues": 35,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80457
+            "stars": 80467,
+            "topics": [
+              "bounty",
+              "bugbounty",
+              "bypass",
+              "cheatsheet",
+              "enumeration",
+              "hacking",
+              "hacktoberfest",
+              "methodology",
+              "payload",
+              "payloads",
+              "penetration-testing",
+              "pentest",
+              "privilege-escalation",
+              "redteam",
+              "security",
+              "vulnerability",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -386,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.",
+            "homepage": null,
             "id": 42261096,
             "language": "PHP",
+            "license": null,
             "last_commit": "2023-11-10T16:15:18Z",
+            "open_issues": 15,
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8980
+            "stars": 8979,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -402,12 +641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains payload to test NoSQL Injections",
+            "homepage": null,
             "id": 68700963,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-05-05T08:26:14Z",
+            "open_issues": 0,
             "owner": "cr0hn",
             "repo": "nosqlinjection_wordlists",
-            "stars": 385
+            "stars": 386,
+            "topics": [
+              "injection",
+              "mongodb",
+              "nosql-injections",
+              "owasp",
+              "payload",
+              "wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -426,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Brazilian-Portuguese word list and instructions booklet for Diceware",
+                "homepage": null,
                 "id": 58393832,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-26T19:37:38Z",
+                "open_issues": 1,
                 "owner": "thoughtworks",
                 "repo": "dadoware",
-                "stars": 210
+                "stars": 209,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             },
@@ -442,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wordlists based on Brazilian passwords and dictionaries.",
+                "homepage": null,
                 "id": 27289260,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-05-30T02:34:48Z",
+                "open_issues": 1,
                 "owner": "BRDumps",
                 "repo": "wordlists",
-                "stars": 182
+                "stars": 182,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             },
@@ -458,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The list of all the words in Portuguese, including all possible combinations and variations (masculine, feminine, plural, singular, verbal conjugations, etc.)",
+                "homepage": null,
                 "id": 244400879,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-21T21:17:06Z",
+                "open_issues": 8,
                 "owner": "jfoclpf",
                 "repo": "words-pt",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             }
@@ -481,12 +747,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various wordlists FR & EN - Cracking French passwords",
+                "homepage": null,
                 "id": 306054267,
                 "language": null,
-                "last_commit": "2026-08-28T15:31:48Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T23:40:08Z",
+                "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
-                "stars": 327
+                "stars": 327,
+                "topics": [
+                  "cmiyc",
+                  "cracking-hashes",
+                  "cracking-password",
+                  "french",
+                  "hacking",
+                  "hash",
+                  "hashcat",
+                  "password",
+                  "password-cracking",
+                  "passwords",
+                  "pentesting",
+                  "wordlists"
+                ]
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             },
@@ -497,12 +781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indonesian wordlist",
+                "homepage": null,
                 "id": 6977149,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-02-19T04:14:06Z",
+                "open_issues": 1,
                 "owner": "geovedi",
                 "repo": "indonesian-wordlist",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             },
@@ -513,12 +802,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of danish base wordlists for cracking danish passwords (Hashcat, John the Ripper etc.)",
+                "homepage": null,
                 "id": 432145602,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-01-11T06:05:22Z",
+                "open_issues": 0,
                 "owner": "n0kovo",
                 "repo": "danish-wordlists",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "danish-language",
+                  "dataset",
+                  "hash-cracking",
+                  "hashcat",
+                  "hashcat-lists",
+                  "john-the-ripper",
+                  "password-cracking",
+                  "wordlists"
+                ]
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             },
@@ -529,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Albanian wordlist - A mix of names, last names, literature and other public sources.",
+                "homepage": null,
                 "id": 513826276,
                 "language": null,
+                "license": "Unlicense",
                 "last_commit": "2023-01-05T16:47:55Z",
+                "open_issues": 0,
                 "owner": "its0x08",
                 "repo": "albanian-wordlist",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
             }
@@ -556,12 +864,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!",
+            "homepage": null,
             "id": 88430053,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-10-04T20:22:09Z",
+            "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9334
+            "stars": 9334,
+            "topics": [
+              "dictionary",
+              "dictionary-attack",
+              "password",
+              "password-safety",
+              "password-strength",
+              "wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -572,12 +892,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-world infosec wordlists, updated regularly",
+            "homepage": "https://trickest.com",
             "id": 523315728,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-28T13:14:42Z",
+            "open_issues": 1,
             "owner": "trickest",
             "repo": "wordlists",
-            "stars": 1791
+            "stars": 1791,
+            "topics": [
+              "bugbounty",
+              "content-discovery",
+              "directory-bruteforce",
+              "hacking",
+              "infosec",
+              "penetration-testing",
+              "pentesting",
+              "reconnaissance",
+              "security",
+              "wordlist",
+              "wordlist-generator",
+              "wordlists",
+              "wordlists-dictionary-collection"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -588,12 +927,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated & Manual Wordlists provided by Assetnote",
+            "homepage": "https://wordlists.assetnote.io",
             "id": 313270723,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:43:15Z",
+            "open_issues": 3,
             "owner": "assetnote",
             "repo": "wordlists",
-            "stars": 1722
+            "stars": 1722,
+            "topics": [
+              "bruteforce",
+              "bruteforce-wordlist",
+              "content-discovery",
+              "wordlists"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -604,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo of all the default wordlists included in Kali. Convienent if you're using something other than Kali.",
+            "homepage": null,
             "id": 137802694,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-03-29T14:47:57Z",
+            "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         },
@@ -620,12 +974,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH honeypot with a cool looking web UI",
+            "homepage": "https://honey.gmelodie.com",
             "id": 1201548129,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-25T18:51:27Z",
+            "open_issues": 0,
             "owner": "gmelodie",
             "repo": "honey",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "honeypot",
+              "ssh",
+              "wordlist"
+            ]
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
         }
@@ -634,15 +997,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:49:12.295Z",
+    "last_updated": "2026-08-29T04:32:05.153Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of wordlists for bruteforcing and fuzzing",
+      "homepage": null,
       "id": 212229356,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-10T17:39:40Z",
+      "open_issues": 4,
       "owner": "gmelodie",
       "repo": "awesome-wordlists",
-      "stars": 1276
+      "stars": 1276,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "brute-force",
+        "wordlist"
+      ]
     },
     "original_repository_sha": "bbe5a21161b644b73842c046b0f37eb91c0a0cf0",
     "enhanced_repository": "enhansome/enhansome-wordlists",
