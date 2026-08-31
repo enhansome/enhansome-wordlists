@@ -15,7 +15,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Lists of Lists
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,166 | 🐛 13 | 🌐 PHP | 📅 2026-08-29 - Collection of useful wordlists grouped by context.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 73,188 | 🐛 13 | 🌐 PHP | 📅 2026-08-31 - Collection of useful wordlists grouped by context.
 * [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,233 | 🐛 1 | 🌐 Go | 📅 2026-03-11 - Massive consolidated wordlist for multiple offensive security use cases.
 * [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,430 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
 * [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 946 | 🐛 0 | 🌐 Python | 📅 2026-02-10 - Wordlists curated by Xajkep grouped by context.
@@ -39,8 +39,8 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Passwords
 
-* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 73,166 | 🐛 13 | 🌐 PHP | 📅 2026-08-29 - Password wordlists from SecLists.
-* [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,335 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
+* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 73,188 | 🐛 13 | 🌐 PHP | 📅 2026-08-31 - Password wordlists from SecLists.
+* [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,334 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
 * [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,416 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
 * [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) ⭐ 114 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory passwords.
 * [vie\_wpa2\_pw](https://github.com/sakkarose/vie_wpa2_pw) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-12-18 - Regional (Vietnam) WPA2 wordlists and hashcat rules.
@@ -49,14 +49,14 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Usernames
 
-* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 73,166 | 🐛 13 | 🌐 PHP | 📅 2026-08-29 - Username wordlists from SecLists.
+* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 73,188 | 🐛 13 | 🌐 PHP | 📅 2026-08-31 - Username wordlists from SecLists.
 * [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) ⭐ 114 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory usernames.
 * [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010.
 
 ## Vulnerabilities
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,493 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - Extensive payload collection for testing many vulnerability classes.
-* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 8,981 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 80,520 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - Extensive payload collection for testing many vulnerability classes.
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 8,980 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 * [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) ⭐ 386 | 🐛 0 | 📅 2021-05-05 - List of payloads to test NoSQL injections.
 
 ## Non-English Wordlists
@@ -69,7 +69,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ### Other Languages
 
-* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 327 | 🐛 5 | 📅 2026-08-30 - Collection of French wordlists.
+* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 327 | 🐛 5 | 📅 2026-08-31 - Collection of French wordlists.
 * [indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist) ⭐ 255 | 🐛 1 | 📅 2016-02-19 - Collection of Indonesian wordlists for password cracking.
 * [danish-wordlists](https://github.com/n0kovo/danish-wordlists) ⭐ 31 | 🐛 0 | 📅 2023-01-11 - Collection of Danish base wordlists.
 * [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) ⭐ 8 | 🐛 0 | 📅 2023-01-05 - Albanian wordlist with a mix of names, last names, and Albanian literature.
@@ -77,8 +77,8 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Miscellaneous
 
-* [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) ⭐ 9,335 | 🐛 21 | 📅 2023-10-04 - Research on several types of wordlists.
-* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,791 | 🐛 1 | 📅 2026-08-29 - Real-world infosec wordlists, updated regularly.
+* [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) ⭐ 9,334 | 🐛 21 | 📅 2023-10-04 - Research on several types of wordlists.
+* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,791 | 🐛 1 | 📅 2026-08-30 - Real-world infosec wordlists, updated regularly.
 * [Assetnote Wordlists](https://github.com/assetnote/wordlists) ⭐ 1,723 | 🐛 3 | 🌐 CSS | 📅 2026-02-27 - Automated and manual wordlists provided by Assetnote.
 * [Kali Wordlists](https://github.com/3ndG4me/KaliLists) ⭐ 245 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Kali Linux's default wordlists.
 * [Honey](https://github.com/gmelodie/honey) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-25 - Honeypot for automated wordlist generation.
@@ -91,4 +91,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
