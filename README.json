@@ -15,11 +15,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:13:17Z",
+            "last_commit": "2026-09-13T11:13:11Z",
             "open_issues": 8,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73476,
+            "stars": 73495,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3241,
+            "stars": 3239,
             "topics": [
               "bugbounty",
               "fuzzing",
@@ -94,7 +94,7 @@
             "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "dictionary",
               "discovery",
@@ -132,7 +132,7 @@
             "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "dictionary",
               "discovery",
@@ -164,7 +164,7 @@
             "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "dictionary",
               "discovery",
@@ -196,7 +196,7 @@
             "open_issues": 0,
             "owner": "xajkep",
             "repo": "wordlists",
-            "stars": 946,
+            "stars": 947,
             "topics": [
               "dictionary",
               "discovery",
@@ -397,11 +397,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:13:17Z",
+            "last_commit": "2026-09-13T11:13:11Z",
             "open_issues": 8,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73476,
+            "stars": 73495,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -422,7 +422,7 @@
             "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9343,
+            "stars": 9345,
             "topics": [
               "dictionary",
               "dictionary-attack",
@@ -538,11 +538,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-12T11:13:17Z",
+            "last_commit": "2026-09-13T11:13:11Z",
             "open_issues": 8,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73476,
+            "stars": 73495,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 80831,
+            "stars": 80847,
             "topics": [
               "bounty",
               "bugbounty",
@@ -629,7 +629,7 @@
             "open_issues": 15,
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8982,
+            "stars": 8983,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -686,7 +686,7 @@
                 "open_issues": 1,
                 "owner": "thoughtworks",
                 "repo": "dadoware",
-                "stars": 209,
+                "stars": 208,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T08:26:51Z",
+                "last_commit": "2026-09-14T09:50:12Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -873,7 +873,7 @@
             "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9343,
+            "stars": 9345,
             "topics": [
               "dictionary",
               "dictionary-attack",
@@ -897,11 +897,11 @@
             "id": 523315728,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-12T13:12:59Z",
+            "last_commit": "2026-09-13T13:12:13Z",
             "open_issues": 1,
             "owner": "trickest",
             "repo": "wordlists",
-            "stars": 1793,
+            "stars": 1795,
             "topics": [
               "bugbounty",
               "content-discovery",
@@ -936,7 +936,7 @@
             "open_issues": 3,
             "owner": "assetnote",
             "repo": "wordlists",
-            "stars": 1723,
+            "stars": 1724,
             "topics": [
               "bruteforce",
               "bruteforce-wordlist",
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:39:41.137Z",
+    "last_updated": "2026-09-14T10:02:47.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
