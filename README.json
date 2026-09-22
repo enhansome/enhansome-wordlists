@@ -15,11 +15,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-20T16:16:48Z",
+            "last_commit": "2026-09-21T11:16:46Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73650,
+            "stars": 73665,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -36,11 +36,11 @@
             "id": 312563287,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-03-11T21:38:54Z",
+            "last_commit": "2026-09-22T07:03:37Z",
             "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3241,
+            "stars": 3243,
             "topics": [
               "bugbounty",
               "fuzzing",
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "chrislockard",
             "repo": "api_wordlist",
-            "stars": 935,
+            "stars": 936,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -397,11 +397,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-20T16:16:48Z",
+            "last_commit": "2026-09-21T11:16:46Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73650,
+            "stars": 73665,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -538,11 +538,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-20T16:16:48Z",
+            "last_commit": "2026-09-21T11:16:46Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73650,
+            "stars": 73665,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81015,
+            "stars": 81072,
             "topics": [
               "bounty",
               "bugbounty",
@@ -650,7 +650,7 @@
             "open_issues": 0,
             "owner": "cr0hn",
             "repo": "nosqlinjection_wordlists",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "injection",
               "mongodb",
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T09:54:37Z",
+                "last_commit": "2026-09-22T08:41:29Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -897,7 +897,7 @@
             "id": 523315728,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-20T13:14:55Z",
+            "last_commit": "2026-09-21T13:16:20Z",
             "open_issues": 1,
             "owner": "trickest",
             "repo": "wordlists",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:07:55.303Z",
+    "last_updated": "2026-09-22T09:25:14.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
