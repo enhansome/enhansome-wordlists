@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73897,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3252,
+            "stars": 3253,
             "topics": [
               "bugbounty",
               "fuzzing",
@@ -401,7 +401,7 @@
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73897,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -542,7 +542,7 @@
             "open_issues": 9,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 73893,
+            "stars": 73897,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81426,
+            "stars": 81429,
             "topics": [
               "bounty",
               "bugbounty",
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T18:27:04Z",
+                "last_commit": "2026-10-03T09:18:42Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:29.970Z",
+    "last_updated": "2026-10-03T09:58:53.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
