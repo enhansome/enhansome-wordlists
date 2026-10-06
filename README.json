@@ -15,7 +15,7 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:18:35Z",
+            "last_commit": "2026-10-06T11:16:12Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
@@ -397,7 +397,7 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:18:35Z",
+            "last_commit": "2026-10-06T11:16:12Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
@@ -538,7 +538,7 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:18:35Z",
+            "last_commit": "2026-10-06T11:16:12Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:59.108Z",
+    "last_updated": "2026-10-06T11:25:38.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
