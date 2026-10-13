@@ -15,11 +15,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:18:27Z",
+            "last_commit": "2026-10-13T11:17:19Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74137,
+            "stars": 74155,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -249,7 +249,7 @@
             "open_issues": 1,
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -285,7 +285,7 @@
             "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -306,7 +306,7 @@
             "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -327,7 +327,7 @@
             "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -348,7 +348,7 @@
             "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -397,11 +397,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:18:27Z",
+            "last_commit": "2026-10-13T11:17:19Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74137,
+            "stars": 74155,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -422,7 +422,7 @@
             "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9370,
+            "stars": 9369,
             "topics": [
               "dictionary",
               "dictionary-attack",
@@ -538,11 +538,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:18:27Z",
+            "last_commit": "2026-10-13T11:17:19Z",
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74137,
+            "stars": 74155,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 36,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81691,
+            "stars": 81733,
             "topics": [
               "bounty",
               "bugbounty",
@@ -629,7 +629,7 @@
             "open_issues": 15,
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8998,
+            "stars": 8999,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T11:55:32Z",
+                "last_commit": "2026-10-13T10:49:01Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -873,7 +873,7 @@
             "open_issues": 21,
             "owner": "berzerk0",
             "repo": "Probable-Wordlists",
-            "stars": 9370,
+            "stars": 9369,
             "topics": [
               "dictionary",
               "dictionary-attack",
@@ -897,7 +897,7 @@
             "id": 523315728,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-11T13:12:34Z",
+            "last_commit": "2026-10-12T13:15:48Z",
             "open_issues": 1,
             "owner": "trickest",
             "repo": "wordlists",
@@ -962,7 +962,7 @@
             "open_issues": 0,
             "owner": "3ndG4me",
             "repo": "KaliLists",
-            "stars": 245,
+            "stars": 246,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:18:22.201Z",
+    "last_updated": "2026-10-13T12:02:13.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
@@ -1036,7 +1036,7 @@
       "open_issues": 4,
       "owner": "gmelodie",
       "repo": "awesome-wordlists",
-      "stars": 1289,
+      "stars": 1291,
       "topics": [
         "awesome",
         "awesome-list",
