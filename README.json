@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74155,
+            "stars": 74177,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3264,
+            "stars": 3266,
             "topics": [
               "bugbounty",
               "fuzzing",
@@ -228,7 +228,7 @@
             "open_issues": 0,
             "owner": "chrislockard",
             "repo": "api_wordlist",
-            "stars": 942,
+            "stars": 943,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -249,7 +249,7 @@
             "open_issues": 1,
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
-            "stars": 846,
+            "stars": 845,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -401,7 +401,7 @@
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74155,
+            "stars": 74177,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -542,7 +542,7 @@
             "open_issues": 10,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74155,
+            "stars": 74177,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -587,10 +587,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T07:52:21Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 81733,
+            "stars": 81766,
             "topics": [
               "bounty",
               "bugbounty",
@@ -629,7 +629,7 @@
             "open_issues": 15,
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 8999,
+            "stars": 9000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T10:49:01Z",
+                "last_commit": "2026-10-14T08:53:23Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -897,7 +897,7 @@
             "id": 523315728,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-12T13:15:48Z",
+            "last_commit": "2026-10-13T13:17:00Z",
             "open_issues": 1,
             "owner": "trickest",
             "repo": "wordlists",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:02:13.522Z",
+    "last_updated": "2026-10-14T09:39:02.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
