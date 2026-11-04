@@ -15,18 +15,18 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Lists of Lists
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,515 | 🐛 9 | 🌐 PHP | 📅 2026-11-03 - Collection of useful wordlists grouped by context.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,528 | 🐛 9 | 🌐 PHP | 📅 2026-11-04 - Collection of useful wordlists grouped by context.
 * [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,285 | 🐛 1 | 🌐 Go | 📅 2026-09-22 - Massive consolidated wordlist for multiple offensive security use cases.
 * [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,437 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
-* [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 952 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Wordlists curated by Xajkep grouped by context.
+* [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 953 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Wordlists curated by Xajkep grouped by context.
 
 ## Enumeration
 
-* [Directories](https://github.com/xajkep/wordlists/blob/master/discovery/directory_only_one.small.txt) ⭐ 952 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's directories wordlist.
-* [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) ⭐ 952 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's backup files wordlist.
-* [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) ⭐ 952 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's backup files with paths.
-* [api\_wordlist](https://github.com/chrislockard/api_wordlist) ⭐ 944 | 🐛 0 | 📅 2025-06-17 - API endpoints and routes wordlist for API discovery.
-* [n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) ⭐ 850 | 🐛 1 | 📅 2023-04-04 - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
+* [Directories](https://github.com/xajkep/wordlists/blob/master/discovery/directory_only_one.small.txt) ⭐ 953 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's directories wordlist.
+* [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) ⭐ 953 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's backup files wordlist.
+* [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) ⭐ 953 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Xajkep's backup files with paths.
+* [api\_wordlist](https://github.com/chrislockard/api_wordlist) ⭐ 945 | 🐛 0 | 📅 2025-06-17 - API endpoints and routes wordlist for API discovery.
+* [n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) ⭐ 849 | 🐛 1 | 📅 2023-04-04 - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 * [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) ⭐ 247 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirbuster's default directories wordlists.
 * [Dirb Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirb) ⭐ 247 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirb's default wordlists.
 * [ws-dirs](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-dirs.txt) ⭐ 247 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Wfuzz webservices directories wordlist.
@@ -35,11 +35,11 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Emails
 
-* [Xajkep's Email Providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) ⭐ 952 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Email providers from Xajkep's repository.
+* [Xajkep's Email Providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) ⭐ 953 | 🐛 1 | 🌐 Python | 📅 2026-02-10 - Email providers from Xajkep's repository.
 
 ## Passwords
 
-* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,515 | 🐛 9 | 🌐 PHP | 📅 2026-11-03 - Password wordlists from SecLists.
+* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,528 | 🐛 9 | 🌐 PHP | 📅 2026-11-04 - Password wordlists from SecLists.
 * [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,386 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
 * [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,428 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
 * [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory passwords.
@@ -49,13 +49,13 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Usernames
 
-* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,515 | 🐛 9 | 🌐 PHP | 📅 2026-11-03 - Username wordlists from SecLists.
+* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,528 | 🐛 9 | 🌐 PHP | 📅 2026-11-04 - Username wordlists from SecLists.
 * [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory usernames.
 * [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010.
 
 ## Vulnerabilities
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,333 | 🐛 38 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,363 | 🐛 39 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
 * [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,009 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 * [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) ⭐ 389 | 🐛 0 | 📅 2021-05-05 - List of payloads to test NoSQL injections.
 
@@ -77,8 +77,8 @@ A curated list of wordlists for brute-forcing and fuzzing.
 ## Miscellaneous
 
 * [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) ⭐ 9,386 | 🐛 21 | 📅 2023-10-04 - Research on several types of wordlists.
-* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,804 | 🐛 1 | 📅 2026-10-16 - Real-world infosec wordlists, updated regularly.
-* [Assetnote Wordlists](https://github.com/assetnote/wordlists) ⭐ 1,753 | 🐛 4 | 🌐 CSS | 📅 2026-02-27 - Automated and manual wordlists provided by Assetnote.
+* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,805 | 🐛 1 | 📅 2026-10-16 - Real-world infosec wordlists, updated regularly.
+* [Assetnote Wordlists](https://github.com/assetnote/wordlists) ⭐ 1,754 | 🐛 4 | 🌐 CSS | 📅 2026-02-27 - Automated and manual wordlists provided by Assetnote.
 * [Kali Wordlists](https://github.com/3ndG4me/KaliLists) ⭐ 247 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Kali Linux's default wordlists.
 * [Honey](https://github.com/gmelodie/honey) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Honeypot for automated wordlist generation.
 * [wordlist-tool](https://github.com/RMNO21/wordlist-tool) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-10-07 - Customizable Python CLI tool and PyPI package for generating combinatorial wordlists, permutations, and dictionary variations for security auditing.
@@ -91,4 +91,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
