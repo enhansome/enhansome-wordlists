@@ -15,8 +15,8 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Lists of Lists
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,587 | 🐛 11 | 🌐 PHP | 📅 2026-11-07 - Collection of useful wordlists grouped by context.
-* [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,288 | 🐛 1 | 🌐 Go | 📅 2026-09-22 - Massive consolidated wordlist for multiple offensive security use cases.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,616 | 🐛 11 | 🌐 PHP | 📅 2026-11-08 - Collection of useful wordlists grouped by context.
+* [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,289 | 🐛 1 | 🌐 Go | 📅 2026-09-22 - Massive consolidated wordlist for multiple offensive security use cases.
 * [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,438 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
 * [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Wordlists curated by Xajkep grouped by context.
 
@@ -39,7 +39,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Passwords
 
-* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,587 | 🐛 11 | 🌐 PHP | 📅 2026-11-07 - Password wordlists from SecLists.
+* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,616 | 🐛 11 | 🌐 PHP | 📅 2026-11-08 - Password wordlists from SecLists.
 * [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,387 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
 * [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,431 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
 * [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory passwords.
@@ -49,14 +49,14 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Usernames
 
-* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,587 | 🐛 11 | 🌐 PHP | 📅 2026-11-07 - Username wordlists from SecLists.
+* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,616 | 🐛 11 | 🌐 PHP | 📅 2026-11-08 - Username wordlists from SecLists.
 * [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory usernames.
 * [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010.
 
 ## Vulnerabilities
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,450 | 🐛 41 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
-* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,007 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,487 | 🐛 41 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,006 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 * [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) ⭐ 390 | 🐛 0 | 📅 2021-05-05 - List of payloads to test NoSQL injections.
 
 ## Non-English Wordlists
@@ -69,7 +69,7 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ### Other Languages
 
-* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 329 | 🐛 5 | 📅 2026-11-07 - Collection of French wordlists.
+* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 329 | 🐛 5 | 📅 2026-11-08 - Collection of French wordlists.
 * [indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist) ⭐ 259 | 🐛 1 | 📅 2016-02-19 - Collection of Indonesian wordlists for password cracking.
 * [danish-wordlists](https://github.com/n0kovo/danish-wordlists) ⭐ 32 | 🐛 0 | 📅 2023-01-11 - Collection of Danish base wordlists.
 * [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) ⭐ 9 | 🐛 0 | 📅 2023-01-05 - Albanian wordlist with a mix of names, last names, and Albanian literature.
@@ -91,4 +91,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
