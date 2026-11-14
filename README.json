@@ -15,11 +15,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:10:18Z",
+            "last_commit": "2026-11-14T11:09:10Z",
             "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74736,
+            "stars": 74752,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "six2dez",
             "repo": "OneListForAll",
-            "stars": 3293,
+            "stars": 3296,
             "topics": [
               "bugbounty",
               "fuzzing",
@@ -249,7 +249,7 @@
             "open_issues": 1,
             "owner": "n0kovo",
             "repo": "n0kovo_subdomains",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -397,11 +397,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:10:18Z",
+            "last_commit": "2026-11-14T11:09:10Z",
             "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74736,
+            "stars": 74752,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -538,11 +538,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-13T11:10:18Z",
+            "last_commit": "2026-11-14T11:09:10Z",
             "open_issues": 11,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74736,
+            "stars": 74752,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 41,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82648,
+            "stars": 82672,
             "topics": [
               "bounty",
               "bugbounty",
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T11:16:16Z",
+                "last_commit": "2026-11-14T10:42:02Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -790,7 +790,7 @@
                 "open_issues": 1,
                 "owner": "geovedi",
                 "repo": "indonesian-wordlist",
-                "stars": 259,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:49:12.295Z"
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T12:28:46.998Z",
+    "last_updated": "2026-11-14T11:40:10.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
@@ -1036,7 +1036,7 @@
       "open_issues": 4,
       "owner": "gmelodie",
       "repo": "awesome-wordlists",
-      "stars": 1298,
+      "stars": 1299,
       "topics": [
         "awesome",
         "awesome-list",
