@@ -15,33 +15,33 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Lists of Lists
 
-* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,949 | 🐛 11 | 🌐 PHP | 📅 2026-11-25 - Collection of useful wordlists grouped by context.
+* [SecLists](https://github.com/danielmiessler/SecLists) ⭐ 74,969 | 🐛 11 | 🌐 PHP | 📅 2026-11-26 - Collection of useful wordlists grouped by context.
 * [OneListForAll](https://github.com/six2dez/OneListForAll) ⭐ 3,301 | 🐛 1 | 🌐 Go | 📅 2026-09-22 - Massive consolidated wordlist for multiple offensive security use cases.
-* [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,439 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
-* [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Wordlists curated by Xajkep grouped by context.
+* [Bug-Bounty-Wordlists](https://github.com/Karanxa/Bug-Bounty-Wordlists) ⭐ 1,440 | 🐛 1 | 📅 2023-03-11 - A repository that includes all the important wordlists used while bug hunting.
+* [Xajkep's Wordlists](https://github.com/xajkep/wordlists) ⭐ 951 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Wordlists curated by Xajkep grouped by context.
 
 ## Enumeration
 
-* [Directories](https://github.com/xajkep/wordlists/blob/master/discovery/directory_only_one.small.txt) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's directories wordlist.
-* [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's backup files wordlist.
-* [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's backup files with paths.
+* [Directories](https://github.com/xajkep/wordlists/blob/master/discovery/directory_only_one.small.txt) ⭐ 951 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's directories wordlist.
+* [Backup files](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_only.txt) ⭐ 951 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's backup files wordlist.
+* [Backup files with path](https://github.com/xajkep/wordlists/blob/master/discovery/backup_files_with_path.txt) ⭐ 951 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Xajkep's backup files with paths.
 * [api\_wordlist](https://github.com/chrislockard/api_wordlist) ⭐ 945 | 🐛 0 | 📅 2025-06-17 - API endpoints and routes wordlist for API discovery.
-* [n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) ⭐ 851 | 🐛 1 | 📅 2023-04-04 - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
-* [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirbuster's default directories wordlists.
-* [Dirb Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirb) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirb's default wordlists.
-* [ws-dirs](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-dirs.txt) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Wfuzz webservices directories wordlist.
-* [ws-files](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-files.txt) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Wfuzz webservices files wordlist.
+* [n0kovo\_subdomains](https://github.com/n0kovo/n0kovo_subdomains) ⭐ 852 | 🐛 1 | 📅 2023-04-04 - An extremely effective subdomain wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
+* [Dirbuster Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirbuster) ⭐ 249 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirbuster's default directories wordlists.
+* [Dirb Wordlists](https://github.com/3ndG4me/KaliLists/tree/master/dirb) ⭐ 249 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Dirb's default wordlists.
+* [ws-dirs](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-dirs.txt) ⭐ 249 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Wfuzz webservices directories wordlist.
+* [ws-files](https://github.com/3ndG4me/KaliLists/blob/master/wfuzz/webservices/ws-files.txt) ⭐ 249 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Wfuzz webservices files wordlist.
 * [AWS S3 Bucket Wordlist](https://github.com/koaj/aws-s3-bucket-wordlist/blob/master/list.txt) ⭐ 31 | 🐛 0 | 📅 2020-06-02 - Wordlist for discovering AWS S3 bucket names.
 
 ## Emails
 
-* [Xajkep's Email Providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) ⭐ 953 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Email providers from Xajkep's repository.
+* [Xajkep's Email Providers](https://github.com/xajkep/wordlists/blob/master/misc/email_free_providers.txt) ⭐ 951 | 🐛 0 | 🌐 Python | 📅 2026-11-05 - Email providers from Xajkep's repository.
 
 ## Passwords
 
-* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,949 | 🐛 11 | 🌐 PHP | 📅 2026-11-25 - Password wordlists from SecLists.
-* [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,393 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
-* [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,436 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
+* [SecLists' Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords) ⭐ 74,969 | 🐛 11 | 🌐 PHP | 📅 2026-11-26 - Password wordlists from SecLists.
+* [WPA-Length Passwords](https://github.com/berzerk0/Probable-Wordlists/tree/master/Real-Passwords/WPA-Length) ⭐ 9,395 | 🐛 21 | 📅 2023-10-04 - Passwords with WPA length.
+* [RockYou](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) ⭐ 1,437 | 🐛 12 | 🌐 C | 📅 2022-01-10 - The go-to wordlist for passwords.
 * [Active-Directory-Wordlists' Passwords](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/Pass.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory passwords.
 * [vie\_wpa2\_pw](https://github.com/sakkarose/vie_wpa2_pw) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-12-18 - Regional (Vietnam) WPA2 wordlists and hashcat rules.
 * [CrackStation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm) - CrackStation's password wordlist.
@@ -49,14 +49,14 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ## Usernames
 
-* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,949 | 🐛 11 | 🌐 PHP | 📅 2026-11-25 - Username wordlists from SecLists.
+* [SecLists' Usernames](https://github.com/danielmiessler/SecLists/tree/master/Usernames) ⭐ 74,969 | 🐛 11 | 🌐 PHP | 📅 2026-11-26 - Username wordlists from SecLists.
 * [Active-Directory-Wordlists' Users](https://github.com/Cryilllic/Active-Directory-Wordlists/blob/master/User.txt) ⭐ 115 | 🐛 0 | 📅 2020-05-28 - Most common Active Directory usernames.
 * [fbnames](https://infocon.org/word%20lists/fbnames.rar) - Names of Facebook users from 2010.
 
 ## Vulnerabilities
 
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,931 | 🐛 41 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
-* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,010 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 82,972 | 🐛 41 | 🌐 Python | 📅 2026-10-30 - Extensive payload collection for testing many vulnerability classes.
+* [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) ⭐ 9,011 | 🐛 15 | 🌐 PHP | 📅 2023-11-10 - Large collection of attack patterns, predictable resources, and fuzzing payloads.
 * [NoSQL-Injection Wordlist](https://github.com/cr0hn/nosqlinjection_wordlists/blob/master/mongodb_nosqli.txt) ⭐ 389 | 🐛 0 | 📅 2021-05-05 - List of payloads to test NoSQL injections.
 
 ## Non-English Wordlists
@@ -69,17 +69,17 @@ A curated list of wordlists for brute-forcing and fuzzing.
 
 ### Other Languages
 
-* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 332 | 🐛 5 | 📅 2026-11-25 - Collection of French wordlists.
+* [French wordlists](https://github.com/clem9669/wordlists) ⭐ 332 | 🐛 5 | 📅 2026-11-26 - Collection of French wordlists.
 * [indonesian-wordlist](https://github.com/geovedi/indonesian-wordlist) ⭐ 259 | 🐛 1 | 📅 2016-02-19 - Collection of Indonesian wordlists for password cracking.
 * [danish-wordlists](https://github.com/n0kovo/danish-wordlists) ⭐ 32 | 🐛 0 | 📅 2023-01-11 - Collection of Danish base wordlists.
 * [albanian-wordlist](https://github.com/its0x08/albanian-wordlist) ⭐ 9 | 🐛 0 | 📅 2023-01-05 - Albanian wordlist with a mix of names, last names, and Albanian literature.
 
 ## Miscellaneous
 
-* [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) ⭐ 9,393 | 🐛 21 | 📅 2023-10-04 - Research on several types of wordlists.
-* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,816 | 🐛 1 | 📅 2026-10-16 - Real-world infosec wordlists, updated regularly.
+* [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) ⭐ 9,395 | 🐛 21 | 📅 2023-10-04 - Research on several types of wordlists.
+* [Trickest Wordlists](https://github.com/trickest/wordlists) ⭐ 1,817 | 🐛 1 | 📅 2026-10-16 - Real-world infosec wordlists, updated regularly.
 * [Assetnote Wordlists](https://github.com/assetnote/wordlists) ⭐ 1,755 | 🐛 4 | 🌐 CSS | 📅 2026-02-27 - Automated and manual wordlists provided by Assetnote.
-* [Kali Wordlists](https://github.com/3ndG4me/KaliLists) ⭐ 250 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Kali Linux's default wordlists.
+* [Kali Wordlists](https://github.com/3ndG4me/KaliLists) ⭐ 249 | 🐛 0 | 🌐 HTML | 📅 2022-03-29 - Kali Linux's default wordlists.
 * [Honey](https://github.com/gmelodie/honey) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2026-10-18 - Honeypot for automated wordlist generation.
 * [wordlist-tool](https://github.com/RMNO21/wordlist-tool) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-10-07 - Customizable Python CLI tool and PyPI package for generating combinatorial wordlists, permutations, and dictionary variations for security auditing.
 * [Blog g0tmi1k](http://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/) - G0tmi1k's post on what makes a good dictionary.
@@ -91,4 +91,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
