@@ -15,11 +15,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-27T11:10:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-28T11:09:39Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74990,
+            "stars": 75007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -397,11 +397,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-27T11:10:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-28T11:09:39Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74990,
+            "stars": 75007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -538,11 +538,11 @@
             "id": 3482588,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-27T11:10:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-28T11:09:39Z",
+            "open_issues": 13,
             "owner": "danielmiessler",
             "repo": "SecLists",
-            "stars": 74990,
+            "stars": 75007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -590,7 +590,7 @@
             "open_issues": 41,
             "owner": "swisskyrepo",
             "repo": "PayloadsAllTheThings",
-            "stars": 82996,
+            "stars": 83012,
             "topics": [
               "bounty",
               "bugbounty",
@@ -629,7 +629,7 @@
             "open_issues": 15,
             "owner": "fuzzdb-project",
             "repo": "fuzzdb",
-            "stars": 9012,
+            "stars": 9013,
             "topics": []
           },
           "first_seen": "2026-08-28T16:49:12.295Z"
@@ -752,7 +752,7 @@
                 "id": 306054267,
                 "language": null,
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-27T12:47:54Z",
+                "last_commit": "2026-11-28T12:01:31Z",
                 "open_issues": 5,
                 "owner": "clem9669",
                 "repo": "wordlists",
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T14:08:58.553Z",
+    "last_updated": "2026-11-28T13:26:08.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of wordlists for bruteforcing and fuzzing",
